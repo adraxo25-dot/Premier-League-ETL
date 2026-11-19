@@ -1,0 +1,37 @@
+name: Weekly Premier League ETL
+
+on:
+  schedule:
+    # Runs every Tuesday at 08:00 UTC (ensures Monday Night Football results are posted)
+    - cron: '0 8 * * 2'
+  # Lets you click "Run workflow" manually to test right now
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Run ETL script
+        run: python fetch_stats.py
+
+      - name: Save updated CSVs to GitHub
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update weekly Premier League CSVs" && git push)
