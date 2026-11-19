@@ -137,6 +137,10 @@ def run_etl():
     os.makedirs("data", exist_ok=True)
     team_stats.to_csv("data/fact_team_stats.csv", index=False)
     player_stats.to_csv("data/fact_player_stats.csv", index=False)
+    
+    # Save lookup tables so Power BI Web can connect everything cleanly
+    team_stats[["team"]].drop_duplicates().sort_values("team").to_csv("data/dim_teams.csv", index=False)
+    team_stats[["gameweek"]].drop_duplicates().sort_values("gameweek").to_csv("data/dim_gameweeks.csv", index=False)
 
     print(f"Done! Saved {len(team_stats)} team rows and {len(player_stats)} player rows.")
     print(f"Unmatched player rows: {player_stats['match_id'].isna().sum()}")
