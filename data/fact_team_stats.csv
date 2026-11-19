@@ -1,0 +1,201 @@
+match_id,gameweek,date,team,opponent,venue,goals_for,goals_against,total_shots,shots_on_target,result
+1,1,21/08/2026,Coventry,Arsenal,Away,0,3,4,1,L
+1,1,21/08/2026,Arsenal,Coventry,Home,3,0,20,6,W
+2,1,22/08/2026,Man United,Hull,Away,0,2,21,5,L
+2,1,22/08/2026,Hull,Man United,Home,2,0,8,4,W
+3,1,22/08/2026,Crystal Palace,Everton,Away,0,2,11,4,L
+3,1,22/08/2026,Everton,Crystal Palace,Home,2,0,16,5,W
+4,1,22/08/2026,Sunderland,Ipswich,Away,1,2,11,4,L
+4,1,22/08/2026,Ipswich,Sunderland,Home,2,1,10,3,W
+5,1,22/08/2026,Leeds,Nott'm Forest,Away,1,0,11,3,W
+5,1,22/08/2026,Nott'm Forest,Leeds,Home,0,1,12,2,L
+6,1,22/08/2026,Tottenham,Brentford,Away,0,3,9,4,L
+6,1,22/08/2026,Brentford,Tottenham,Home,3,0,26,8,W
+7,1,23/08/2026,Aston Villa,Brighton,Away,0,4,6,0,L
+7,1,23/08/2026,Brighton,Aston Villa,Home,4,0,21,6,W
+8,1,23/08/2026,Bournemouth,Man City,Away,1,2,5,4,L
+8,1,23/08/2026,Man City,Bournemouth,Home,2,1,13,6,W
+9,1,23/08/2026,Liverpool,Newcastle,Away,2,2,27,7,D
+9,1,23/08/2026,Newcastle,Liverpool,Home,2,2,13,4,D
+10,1,24/08/2026,Chelsea,Fulham,Away,3,2,18,6,W
+10,1,24/08/2026,Fulham,Chelsea,Home,2,3,14,6,L
+11,2,28/08/2026,Man City,Crystal Palace,Away,4,1,18,9,W
+11,2,28/08/2026,Crystal Palace,Man City,Home,1,4,9,1,L
+12,2,29/08/2026,Nott'm Forest,Liverpool,Away,2,2,12,3,D
+12,2,29/08/2026,Liverpool,Nott'm Forest,Home,2,2,13,4,D
+13,2,29/08/2026,Everton,Bournemouth,Away,1,1,13,7,D
+13,2,29/08/2026,Bournemouth,Everton,Home,1,1,17,5,D
+14,2,29/08/2026,Hull,Coventry,Away,1,0,6,2,W
+14,2,29/08/2026,Coventry,Hull,Home,0,1,11,3,L
+15,2,29/08/2026,Newcastle,Tottenham,Away,2,0,11,2,W
+15,2,29/08/2026,Tottenham,Newcastle,Home,0,2,17,6,L
+16,2,30/08/2026,Brighton,Chelsea,Away,3,4,15,6,L
+16,2,30/08/2026,Chelsea,Brighton,Home,4,3,17,6,W
+17,2,30/08/2026,Brentford,Leeds,Away,1,1,22,5,D
+17,2,30/08/2026,Leeds,Brentford,Home,1,1,12,2,D
+18,2,30/08/2026,Fulham,Sunderland,Away,0,1,11,0,L
+18,2,30/08/2026,Sunderland,Fulham,Home,1,0,12,4,W
+19,2,30/08/2026,Ipswich,Man United,Away,2,5,9,5,L
+19,2,30/08/2026,Man United,Ipswich,Home,5,2,33,11,W
+20,2,31/08/2026,Arsenal,Aston Villa,Away,1,0,7,2,W
+20,2,31/08/2026,Aston Villa,Arsenal,Home,0,1,7,0,L
+21,3,04/09/2026,Liverpool,Ipswich,Away,2,0,10,7,W
+21,3,04/09/2026,Ipswich,Liverpool,Home,0,2,14,5,L
+22,3,05/09/2026,Bournemouth,Newcastle,Away,2,2,17,5,D
+22,3,05/09/2026,Newcastle,Bournemouth,Home,2,2,8,2,D
+23,3,05/09/2026,Sunderland,Brentford,Away,1,1,14,5,D
+23,3,05/09/2026,Brentford,Sunderland,Home,1,1,12,2,D
+24,3,05/09/2026,Leeds,Brighton,Away,1,1,10,5,D
+24,3,05/09/2026,Brighton,Leeds,Home,1,1,20,5,D
+25,3,05/09/2026,Crystal Palace,Fulham,Away,3,2,10,5,W
+25,3,05/09/2026,Fulham,Crystal Palace,Home,2,3,25,6,L
+26,3,05/09/2026,Coventry,Man City,Away,0,1,12,3,L
+26,3,05/09/2026,Man City,Coventry,Home,1,0,15,4,W
+27,3,05/09/2026,Tottenham,Nott'm Forest,Away,0,0,11,0,D
+27,3,05/09/2026,Nott'm Forest,Tottenham,Home,0,0,12,2,D
+28,3,05/09/2026,Aston Villa,Hull,Away,0,0,13,1,D
+28,3,05/09/2026,Hull,Aston Villa,Home,0,0,11,4,D
+29,3,06/09/2026,Man United,Everton,Away,2,2,14,3,D
+29,3,06/09/2026,Everton,Man United,Home,2,2,18,6,D
+30,3,06/09/2026,Chelsea,Arsenal,Away,1,2,13,5,L
+30,3,06/09/2026,Arsenal,Chelsea,Home,2,1,16,9,W
+31,4,12/09/2026,Nott'm Forest,Aston Villa,Away,2,1,22,7,W
+31,4,12/09/2026,Aston Villa,Nott'm Forest,Home,1,2,7,5,L
+32,4,12/09/2026,Brentford,Bournemouth,Away,2,2,8,2,D
+32,4,12/09/2026,Bournemouth,Brentford,Home,2,2,20,10,D
+33,4,12/09/2026,Hull,Chelsea,Away,2,2,14,5,D
+33,4,12/09/2026,Chelsea,Hull,Home,2,2,12,7,D
+34,4,12/09/2026,Ipswich,Crystal Palace,Away,3,2,12,6,W
+34,4,12/09/2026,Crystal Palace,Ipswich,Home,2,3,11,4,L
+35,4,12/09/2026,Fulham,Liverpool,Away,0,0,10,4,D
+35,4,12/09/2026,Liverpool,Fulham,Home,0,0,14,3,D
+36,4,12/09/2026,Everton,Tottenham,Away,0,0,12,3,D
+36,4,12/09/2026,Tottenham,Everton,Home,0,0,14,2,D
+37,4,12/09/2026,Arsenal,Sunderland,Away,2,0,11,5,W
+37,4,12/09/2026,Sunderland,Arsenal,Home,0,2,12,3,L
+38,4,13/09/2026,Brighton,Coventry,Away,5,0,22,7,W
+38,4,13/09/2026,Coventry,Brighton,Home,0,5,14,6,L
+39,4,13/09/2026,Man City,Man United,Away,1,0,6,2,W
+39,4,13/09/2026,Man United,Man City,Home,0,1,16,3,L
+40,4,14/09/2026,Newcastle,Leeds,Away,1,4,7,5,L
+40,4,14/09/2026,Leeds,Newcastle,Home,4,1,15,6,W
+41,5,18/09/2026,Chelsea,Brentford,Away,0,3,12,2,L
+41,5,18/09/2026,Brentford,Chelsea,Home,3,0,13,6,W
+42,5,19/09/2026,Aston Villa,Tottenham,Away,3,2,15,6,W
+42,5,19/09/2026,Tottenham,Aston Villa,Home,2,3,20,7,L
+43,5,19/09/2026,Arsenal,Brighton,Away,0,3,11,2,L
+43,5,19/09/2026,Brighton,Arsenal,Home,3,0,17,5,W
+44,5,19/09/2026,Ipswich,Everton,Away,0,1,13,4,L
+44,5,19/09/2026,Everton,Ipswich,Home,1,0,21,2,W
+45,5,19/09/2026,Hull,Newcastle,Away,1,2,22,4,L
+45,5,19/09/2026,Newcastle,Hull,Home,2,1,12,5,W
+46,5,19/09/2026,Coventry,Nott'm Forest,Away,1,0,10,3,W
+46,5,19/09/2026,Nott'm Forest,Coventry,Home,0,1,24,3,L
+47,5,20/09/2026,Liverpool,Bournemouth,Away,1,0,12,3,W
+47,5,20/09/2026,Bournemouth,Liverpool,Home,0,1,9,2,L
+48,5,20/09/2026,Crystal Palace,Leeds,Away,0,0,12,4,D
+48,5,20/09/2026,Leeds,Crystal Palace,Home,0,0,13,2,D
+49,5,20/09/2026,Sunderland,Man City,Away,3,5,17,9,L
+49,5,20/09/2026,Man City,Sunderland,Home,5,3,16,6,W
+50,5,20/09/2026,Man United,Fulham,Away,1,1,29,6,D
+50,5,20/09/2026,Fulham,Man United,Home,1,1,12,6,D
+51,6,10/10/2026,Leeds,Arsenal,Away,1,2,11,5,L
+51,6,10/10/2026,Arsenal,Leeds,Home,2,1,13,6,W
+52,6,10/10/2026,Brentford,Aston Villa,Away,2,2,14,4,D
+52,6,10/10/2026,Aston Villa,Brentford,Home,2,2,20,7,D
+53,6,10/10/2026,Bournemouth,Chelsea,Away,1,5,9,4,L
+53,6,10/10/2026,Chelsea,Bournemouth,Home,5,1,10,6,W
+54,6,10/10/2026,Fulham,Ipswich,Away,1,2,13,5,L
+54,6,10/10/2026,Ipswich,Fulham,Home,2,1,11,5,W
+55,6,10/10/2026,Brighton,Sunderland,Away,2,0,13,4,W
+55,6,10/10/2026,Sunderland,Brighton,Home,0,2,12,3,L
+56,6,10/10/2026,Tottenham,Man United,Away,1,1,12,3,D
+56,6,10/10/2026,Man United,Tottenham,Home,1,1,12,4,D
+57,6,11/10/2026,Nott'm Forest,Crystal Palace,Away,1,3,24,6,L
+57,6,11/10/2026,Crystal Palace,Nott'm Forest,Home,3,1,13,7,W
+58,6,11/10/2026,Everton,Hull,Away,2,2,15,7,D
+58,6,11/10/2026,Hull,Everton,Home,2,2,9,5,D
+59,6,11/10/2026,Man City,Liverpool,Away,3,0,15,4,W
+59,6,11/10/2026,Liverpool,Man City,Home,0,3,13,6,L
+60,6,12/10/2026,Newcastle,Coventry,Away,1,4,19,6,L
+60,6,12/10/2026,Coventry,Newcastle,Home,4,1,9,6,W
+61,7,17/10/2026,Chelsea,Everton,Away,2,0,18,7,W
+61,7,17/10/2026,Everton,Chelsea,Home,0,2,6,5,L
+62,7,17/10/2026,Liverpool,Brentford,Away,2,1,21,5,W
+62,7,17/10/2026,Brentford,Liverpool,Home,1,2,10,2,L
+63,7,17/10/2026,Hull,Fulham,Away,0,1,5,0,L
+63,7,17/10/2026,Fulham,Hull,Home,1,0,18,6,W
+64,7,17/10/2026,Ipswich,Man City,Away,2,3,8,3,L
+64,7,17/10/2026,Man City,Ipswich,Home,3,2,19,6,W
+65,7,17/10/2026,Aston Villa,Newcastle,Away,1,0,15,3,W
+65,7,17/10/2026,Newcastle,Aston Villa,Home,0,1,16,1,L
+66,7,18/10/2026,Sunderland,Bournemouth,Away,0,2,3,0,L
+66,7,18/10/2026,Bournemouth,Sunderland,Home,2,0,29,6,W
+67,7,18/10/2026,Crystal Palace,Brighton,Away,0,5,5,1,L
+67,7,18/10/2026,Brighton,Crystal Palace,Home,5,0,17,9,W
+68,7,18/10/2026,Man United,Leeds,Away,1,1,13,3,D
+68,7,18/10/2026,Leeds,Man United,Home,1,1,12,5,D
+69,7,18/10/2026,Arsenal,Nott'm Forest,Away,1,0,9,1,W
+69,7,18/10/2026,Nott'm Forest,Arsenal,Home,0,1,14,2,L
+70,7,19/10/2026,Coventry,Tottenham,Away,1,3,12,1,L
+70,7,19/10/2026,Tottenham,Coventry,Home,3,1,16,5,W
+71,8,23/10/2026,Nott'm Forest,Ipswich,Away,1,1,17,5,D
+71,8,23/10/2026,Ipswich,Nott'm Forest,Home,1,1,7,3,D
+72,8,24/10/2026,Man City,Aston Villa,Away,1,2,15,7,L
+72,8,24/10/2026,Aston Villa,Man City,Home,2,1,8,2,W
+73,8,24/10/2026,Everton,Arsenal,Away,0,2,8,3,L
+73,8,24/10/2026,Arsenal,Everton,Home,2,0,20,4,W
+74,8,24/10/2026,Fulham,Coventry,Away,1,0,12,3,W
+74,8,24/10/2026,Coventry,Fulham,Home,0,1,13,2,L
+75,8,24/10/2026,Tottenham,Chelsea,Away,2,0,15,4,W
+75,8,24/10/2026,Chelsea,Tottenham,Home,0,2,7,4,L
+76,8,25/10/2026,Newcastle,Crystal Palace,Away,2,0,10,2,W
+76,8,25/10/2026,Crystal Palace,Newcastle,Home,0,2,17,4,L
+77,8,25/10/2026,Brentford,Hull,Away,1,1,14,6,D
+77,8,25/10/2026,Hull,Brentford,Home,1,1,12,2,D
+78,8,25/10/2026,Brighton,Liverpool,Away,0,2,17,1,L
+78,8,25/10/2026,Liverpool,Brighton,Home,2,0,13,4,W
+79,8,25/10/2026,Bournemouth,Man United,Away,3,0,10,4,W
+79,8,25/10/2026,Man United,Bournemouth,Home,0,3,17,5,L
+80,8,25/10/2026,Leeds,Sunderland,Away,0,0,11,4,D
+80,8,25/10/2026,Sunderland,Leeds,Home,0,0,15,4,D
+81,9,31/10/2026,Man United,Chelsea,Away,0,2,12,5,L
+81,9,31/10/2026,Chelsea,Man United,Home,2,0,19,10,W
+82,9,31/10/2026,Leeds,Bournemouth,Away,0,2,10,1,L
+82,9,31/10/2026,Bournemouth,Leeds,Home,2,0,11,5,W
+83,9,31/10/2026,Nott'm Forest,Brentford,Away,0,2,15,1,L
+83,9,31/10/2026,Brentford,Nott'm Forest,Home,2,0,7,1,W
+84,9,31/10/2026,Sunderland,Coventry,Away,1,3,17,2,L
+84,9,31/10/2026,Coventry,Sunderland,Home,3,1,12,4,W
+85,9,31/10/2026,Ipswich,Hull,Away,2,2,15,3,D
+85,9,31/10/2026,Hull,Ipswich,Home,2,2,9,3,D
+86,9,31/10/2026,Brighton,Man City,Away,1,0,7,3,W
+86,9,31/10/2026,Man City,Brighton,Home,0,1,21,6,L
+87,9,31/10/2026,Crystal Palace,Tottenham,Away,0,2,2,1,L
+87,9,31/10/2026,Tottenham,Crystal Palace,Home,2,0,34,9,W
+88,9,31/10/2026,Fulham,Aston Villa,Away,1,1,14,5,D
+88,9,31/10/2026,Aston Villa,Fulham,Home,1,1,16,3,D
+89,9,01/11/2026,Arsenal,Liverpool,Away,1,0,10,3,W
+89,9,01/11/2026,Liverpool,Arsenal,Home,0,1,17,0,L
+90,9,02/11/2026,Everton,Newcastle,Away,1,0,16,5,W
+90,9,02/11/2026,Newcastle,Everton,Home,0,1,17,2,L
+91,10,06/11/2026,Coventry,Everton,Away,1,3,15,4,L
+91,10,06/11/2026,Everton,Coventry,Home,3,1,15,7,W
+92,10,07/11/2026,Tottenham,Leeds,Away,0,1,7,4,L
+92,10,07/11/2026,Leeds,Tottenham,Home,1,0,16,4,W
+93,10,07/11/2026,Hull,Arsenal,Away,0,1,7,2,L
+93,10,07/11/2026,Arsenal,Hull,Home,1,0,21,10,W
+94,10,07/11/2026,Newcastle,Fulham,Away,1,1,9,5,D
+94,10,07/11/2026,Fulham,Newcastle,Home,1,1,11,5,D
+95,10,07/11/2026,Man City,Nott'm Forest,Away,1,3,12,4,L
+95,10,07/11/2026,Nott'm Forest,Man City,Home,3,1,11,5,W
+96,10,08/11/2026,Brentford,Brighton,Away,0,2,5,0,L
+96,10,08/11/2026,Brighton,Brentford,Home,2,0,20,6,W
+97,10,08/11/2026,Liverpool,Crystal Palace,Away,3,1,20,8,W
+97,10,08/11/2026,Crystal Palace,Liverpool,Home,1,3,19,7,L
+98,10,08/11/2026,Bournemouth,Ipswich,Away,2,1,15,4,W
+98,10,08/11/2026,Ipswich,Bournemouth,Home,1,2,10,2,L
+99,10,08/11/2026,Chelsea,Sunderland,Away,0,1,10,4,L
+99,10,08/11/2026,Sunderland,Chelsea,Home,1,0,9,2,W
+100,10,08/11/2026,Aston Villa,Man United,Away,4,4,12,6,D
+100,10,08/11/2026,Man United,Aston Villa,Home,4,4,26,9,D
